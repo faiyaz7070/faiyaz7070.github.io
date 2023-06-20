@@ -1,0 +1,29 @@
+@media (max-width: 768px){
+  #git-trophy{
+    width:85%;
+}
+
+/* @media (min-width: 1000px){
+  #git-trophy{
+    width:98%;
+} */
+
+}
+
+@media (max-width:510px){
+    #github-streak-stats{
+        width:97%;
+    }
+}
+
+@media (max-width:510px){
+    #github-stats-card{
+        width:97%;
+    }
+}
+@media (max-width:980px){
+    #nav{
+        display: none;
+    }
+}
+
